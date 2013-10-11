@@ -1,0 +1,78 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: dissertacao.aux
+The style file: plain.bst
+Database file #1: LuisGustavo.bib
+Warning--entry type for "Brown:2010:Online" isn't style-file defined
+--line 95 of file LuisGustavo.bib
+Warning--entry type for "Flot:Online" isn't style-file defined
+--line 109 of file LuisGustavo.bib
+Warning--entry type for "SVG:Online" isn't style-file defined
+--line 119 of file LuisGustavo.bib
+Warning--entry type for "worqx:Online" isn't style-file defined
+--line 129 of file LuisGustavo.bib
+Warning--entry type for "matplotlib:Online" isn't style-file defined
+--line 139 of file LuisGustavo.bib
+Warning--entry type for "graphviz:Online" isn't style-file defined
+--line 149 of file LuisGustavo.bib
+Warning--entry type for "perez:Online" isn't style-file defined
+--line 157 of file LuisGustavo.bib
+Warning--entry type for "jqGrid:Online" isn't style-file defined
+--line 169 of file LuisGustavo.bib
+Warning--entry type for "SlickGrid:Online" isn't style-file defined
+--line 181 of file LuisGustavo.bib
+Warning--entry type for "pysvg:Online" isn't style-file defined
+--line 193 of file LuisGustavo.bib
+Warning--entry type for "tinemce:Online" isn't style-file defined
+--line 205 of file LuisGustavo.bib
+Warning--entry type for "svgwrite:Online" isn't style-file defined
+--line 219 of file LuisGustavo.bib
+Warning--entry type for "PythonPD:Online" isn't style-file defined
+--line 233 of file LuisGustavo.bib
+Name 1 in "A. Barreto Jr., A. Peres,; A. Pires," has a comma at the end for entry 142746-MS
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in graphviz:Online
+Name 1 in "A. Barreto Jr., A. Peres,; A. Pires," has a comma at the end for entry 142746-MS
+while executing---line 1090 of file plain.bst
+Warning--empty publisher in Fry:2008:VD:1482332
+You've used 24 entries,
+            2118 wiz_defined-function locations,
+            616 strings with 6552 characters,
+and the built_in function-call counts, 5603 in all, are:
+= -- 495
+> -- 229
+< -- 0
++ -- 96
+- -- 70
+* -- 271
+:= -- 937
+add.period$ -- 59
+call.type$ -- 24
+change.case$ -- 102
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 217
+empty$ -- 549
+format.name$ -- 70
+if$ -- 1190
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 17
+newline$ -- 109
+num.names$ -- 46
+pop$ -- 174
+preamble$ -- 1
+purify$ -- 83
+quote$ -- 0
+skip$ -- 202
+stack$ -- 0
+substring$ -- 218
+swap$ -- 24
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 84
+warning$ -- 2
+while$ -- 50
+width$ -- 26
+write$ -- 208
+(There were 2 error messages)

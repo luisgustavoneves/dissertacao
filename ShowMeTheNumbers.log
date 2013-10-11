@@ -1,0 +1,155 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.10.25)  28 JUN 2013 09:16
+entering extended mode
+ %&-line parsing enabled.
+**ShowMeTheNumbers.tex
+(./ShowMeTheNumbers.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-texlive/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./ShowMeTheNumbers.aux)
+\openout1 = `ShowMeTheNumbers.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+ <./graf2.jpg, id=1, 877.2775pt x 650.43pt>
+File: ./graf2.jpg Graphic file (type jpg)
+ <use ./graf2.jpg>
+Overfull \hbox (1.16724pt too wide) in paragraph at lines 32--33
+[]\OT1/cmr/m/n/10 Como ver-e-mos em al-guns ex-em-p-los, n~ao ficar no cam-inho
+ dos da-dos e fornecer
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./graf2.jpg>]
+Overfull \hbox (17.13976pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 mitindo um acom-pan-hamento vir-tual na unidade in-dus-trial (r
+e-fi-naria ou plataforma)
+ []
+
+[3] [4] [5]
+Overfull \hbox (55.1667pt too wide) in paragraph at lines 145--145
+[]\OT1/cmr/bx/n/12 Eddie Jab-bour, Julie Steele - Map-ping In-for-ma-tion:Redes
+igning
+ []
+
+
+Overfull \hbox (2.30507pt too wide) in paragraph at lines 147--148
+\OT1/cmr/m/n/10 O tamanho do mapa e como ele aco-moda as in-forma^^Xc~oes que d
+e-vem ser mostradas
+ []
+
+[6]
+Overfull \hbox (2.15791pt too wide) in paragraph at lines 153--154
+[]\OT1/cmr/m/n/10 Mapas po-dem en-volver quest~oes emo-cionais. Al-gu-mas cores
+ de-vem ser preser-
+ []
+
+[7] [8] (./ShowMeTheNumbers.bbl
+Overfull \hbox (43.90082pt too wide) in paragraph at lines 9--12
+[]\OT1/cmr/m/n/10 Robbie Brown.  http://www.nytimes.com/2010/05/30/us/30rig.htm
+l?pagewanted=all,
+ []
+
+) [9] (./ShowMeTheNumbers.aux) ) 
+Here is how much of TeX's memory you used:
+ 984 strings out of 495061
+ 12456 string characters out of 1182620
+ 64733 words of memory out of 3000000
+ 4196 multiletter control sequences out of 15000+50000
+ 8540 words of font info for 30 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 25i,6n,19p,655b,210s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/c
+mbx9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/tex
+mf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb>
+Output written on ShowMeTheNumbers.pdf (9 pages, 169786 bytes).
+PDF statistics:
+ 61 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
