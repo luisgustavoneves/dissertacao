@@ -1,12 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.26)  8 OCT 2013 14:42
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.11.12)  3 FEB 2014 10:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **dissertacao.tex
 (./dissertacao.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
-aded.
+Babel <3.9f> and hyphenation patterns for 2 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -367,309 +366,311 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 24.
 
-Overfull \hbox (0.88959pt too wide) in paragraph at lines 32--33
-\OT1/cmr/m/n/10 Podemos definir a vi-su-al-iza^^Xc~ao de in-forma^^Xc~ao como a
- co-mu-nica^^Xc~ao da in-forma^^Xc~ao
- []
+(./dissertacao.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+ [1
 
-[1
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+\tf@toc=\write3
+\openout3 = `dissertacao.toc'.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (12.33284pt too wide) in paragraph at lines 36--37
+
+[2]
+Overfull \hbox (12.33284pt too wide) in paragraph at lines 38--39
 []\OT1/cmr/m/n/10 O uso ad-e-quado da vi-su-al-iza^^Xc~ao de in-forma^^Xc~ao no
  pro-jeto de sis-temas cient^^S^^Pficos,
  []
 
-[2] [3] <./s3p.jpg, id=18, 651.95148pt x 681.29532pt>
+[3] [4] <./s3p.jpg, id=22, 651.95148pt x 681.29532pt>
 File: ./s3p.jpg Graphic file (type jpg)
  <use ./s3p.jpg>
-Package pdftex.def Info: ./s3p.jpg used on input line 83.
+Package pdftex.def Info: ./s3p.jpg used on input line 87.
 (pdftex.def)             Requested size: 325.97493pt x 340.64682pt.
- [4 <./s3p.jpg>]
-Overfull \hbox (17.13976pt too wide) in paragraph at lines 96--97
+ [5 <./s3p.jpg>]
+Overfull \hbox (17.13976pt too wide) in paragraph at lines 100--101
 \OT1/cmr/m/n/10 mitindo um acom-pan-hamento vir-tual na unidade in-dus-trial (r
 e-fi-naria ou plataforma)
  []
 
 
-Overfull \hbox (11.4173pt too wide) in paragraph at lines 102--103
+Overfull \hbox (11.4173pt too wide) in paragraph at lines 106--107
 \OT1/cmr/m/n/10 je-tivo preser-var, man-ter e dis-tribuir aos gru-pos de pesqui
 sa do CEN-PES/Petrobras,
  []
 
 
-Overfull \hbox (9.58397pt too wide) in paragraph at lines 102--103
+Overfull \hbox (9.58397pt too wide) in paragraph at lines 106--107
 \OT1/cmr/m/n/10 cul-turas de mi-cror-gan-is-mos vi^^Saveis para uti-liza^^Xc~ao
  nos di-ver-sos cam-pos da pesquisa
  []
 
 
-Overfull \hbox (4.13954pt too wide) in paragraph at lines 102--103
+Overfull \hbox (4.13954pt too wide) in paragraph at lines 106--107
 \OT1/cmr/m/n/10 biotec-nol^^Sogica apli-ca-dos a ex-plora^^Xc~ao, produ^^Xc~ao 
 de petr^^Soleo e en-er-gias renov^^Saveis.
  []
 
-<./image-diff13-12-crop.jpg, id=22, 61.73062pt x 83.5622pt>
+<./image-diff13-12-crop.jpg, id=26, 61.73062pt x 83.5622pt>
 File: ./image-diff13-12-crop.jpg Graphic file (type jpg)
 
 <use ./image-diff13-12-crop.jpg>
-Package pdftex.def Info: ./image-diff13-12-crop.jpg used on input line 110.
+Package pdftex.def Info: ./image-diff13-12-crop.jpg used on input line 114.
 (pdftex.def)             Requested size: 61.73045pt x 83.56198pt.
- [5 <./image-diff13-12-crop.jpg>] [6] [7]
-<./monocromatic_template.jpg, id=33, 144.54pt x 144.54pt>
+ [6] [7 <./image-diff13-12-crop.jpg>] [8]
+<./monocromatic_template.jpg, id=37, 144.54pt x 144.54pt>
 File: ./monocromatic_template.jpg Graphic file (type jpg)
 
 <use ./monocromatic_template.jpg>
-Package pdftex.def Info: ./monocromatic_template.jpg used on input line 166.
+Package pdftex.def Info: ./monocromatic_template.jpg used on input line 170.
 (pdftex.def)             Requested size: 101.17729pt x 101.17729pt.
 
-<./complementary_template.jpg, id=34, 144.54pt x 144.54pt>
+<./complementary_template.jpg, id=38, 144.54pt x 144.54pt>
 File: ./complementary_template.jpg Graphic file (type jpg)
 
 <use ./complementary_template.jpg>
-Package pdftex.def Info: ./complementary_template.jpg used on input line 176.
+Package pdftex.def Info: ./complementary_template.jpg used on input line 180.
 (pdftex.def)             Requested size: 101.17729pt x 101.17729pt.
 
-<./triad_template.jpg, id=35, 144.54pt x 144.54pt>
+<./triad_template.jpg, id=39, 144.54pt x 144.54pt>
 File: ./triad_template.jpg Graphic file (type jpg)
  <use ./triad_template.jpg>
-Package pdftex.def Info: ./triad_template.jpg used on input line 187.
+Package pdftex.def Info: ./triad_template.jpg used on input line 191.
 (pdftex.def)             Requested size: 101.17729pt x 101.17729pt.
 
-[8 <./monocromatic_template.jpg> <./complementary_template.jpg>]
-<./tabgraf1.jpg, id=39, 590.205pt x 136.51pt>
+[9 <./monocromatic_template.jpg> <./complementary_template.jpg>]
+<./tabgraf1.jpg, id=43, 590.205pt x 136.51pt>
 File: ./tabgraf1.jpg Graphic file (type jpg)
  <use ./tabgraf1.jpg>
-Package pdftex.def Info: ./tabgraf1.jpg used on input line 211.
+Package pdftex.def Info: ./tabgraf1.jpg used on input line 215.
 (pdftex.def)             Requested size: 295.10178pt x 68.25482pt.
 
-<./quadrotemp.jpg, id=40, 133.49875pt x 107.40125pt>
+<./quadrotemp.jpg, id=44, 133.49875pt x 107.40125pt>
 File: ./quadrotemp.jpg Graphic file (type jpg)
  <use ./quadrotemp.jpg>
-Package pdftex.def Info: ./quadrotemp.jpg used on input line 218.
+Package pdftex.def Info: ./quadrotemp.jpg used on input line 222.
 (pdftex.def)             Requested size: 133.4984pt x 107.40097pt.
 
-[9 <./triad_template.jpg> <./tabgraf1.jpg>]
-<./table2.jpg, id=44, 362.35374pt x 465.74pt>
+[10 <./triad_template.jpg>] <./table2.jpg, id=48, 362.35374pt x 465.74pt>
 File: ./table2.jpg Graphic file (type jpg)
- <use ./table2.jpg>
-Package pdftex.def Info: ./table2.jpg used on input line 237.
+
+<use ./table2.jpg>
+Package pdftex.def Info: ./table2.jpg used on input line 241.
 (pdftex.def)             Requested size: 181.17642pt x 232.86943pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (8.07356pt too wide) in paragraph at lines 242--243
+Overfull \hbox (8.07356pt too wide) in paragraph at lines 246--247
 []\OT1/cmr/m/n/10 Tabelas s~ao am-pla-mente uti-lizadas em sitemas cient^^S^^Pf
 icos. A par-tir da defini^^Xc~ao
  []
 
-[10 <./quadrotemp.jpg>] <./pizzavsbarras.jpg, id=48, 602.25pt x 892.33376pt>
+[11 <./tabgraf1.jpg> <./quadrotemp.jpg>]
+<./pizzavsbarras.jpg, id=52, 602.25pt x 892.33376pt>
 File: ./pizzavsbarras.jpg Graphic file (type jpg)
-
-<use ./pizzavsbarras.jpg>
-Package pdftex.def Info: ./pizzavsbarras.jpg used on input line 256.
+ <use ./pizzavsbarras.jpg>
+Package pdftex.def Info: ./pizzavsbarras.jpg used on input line 260.
 (pdftex.def)             Requested size: 180.67639pt x 267.7022pt.
- [11 <./table2.jpg>]
-Overfull \hbox (4.13951pt too wide) in paragraph at lines 271--272
+
+[12 <./table2.jpg>]
+Overfull \hbox (4.13951pt too wide) in paragraph at lines 275--276
 \OT1/cmr/m/n/10 Quarteto de Anscombe ^^Se o nome dado a qua-tro con-jun-tos de 
 da-dos que aparentam
  []
 
-[12 <./pizzavsbarras.jpg>] <./anscombe.png, id=55, 426.59375pt x 310.15875pt>
+[13 <./pizzavsbarras.jpg>] <./anscombe.png, id=60, 426.59375pt x 310.15875pt>
 File: ./anscombe.png Graphic file (type png)
 
 <use ./anscombe.png>
-Package pdftex.def Info: ./anscombe.png used on input line 275.
+Package pdftex.def Info: ./anscombe.png used on input line 279.
 (pdftex.def)             Requested size: 298.61357pt x 217.10963pt.
- [13 <./anscombe.png>]
-Overfull \hbox (2.30507pt too wide) in paragraph at lines 308--309
+ [14 <./anscombe.png>]
+Overfull \hbox (2.30507pt too wide) in paragraph at lines 312--313
 \OT1/cmr/m/n/10 O tamanho do mapa e como ele aco-moda as in-forma^^Xc~oes que d
 e-vem ser mostradas
  []
 
-[14]
-Overfull \hbox (2.15791pt too wide) in paragraph at lines 314--315
+[15]
+Overfull \hbox (2.15791pt too wide) in paragraph at lines 318--319
 []\OT1/cmr/m/n/10 Mapas po-dem en-volver quest~oes emo-cionais. Al-gu-mas cores
  de-vem ser preser-
  []
 
-<./s3p-infografico.jpg, id=65, 554.07pt x 504.88625pt>
+[16] <./s3p-infografico.jpg, id=72, 554.07pt x 504.88625pt>
 File: ./s3p-infografico.jpg Graphic file (type jpg)
 
 <use ./s3p-infografico.jpg>
-Package pdftex.def Info: ./s3p-infografico.jpg used on input line 337.
+Package pdftex.def Info: ./s3p-infografico.jpg used on input line 341.
 (pdftex.def)             Requested size: 277.03432pt x 252.44249pt.
- [15] [16 <./s3p-infografico.jpg>]
-<./fouling_apelidos.jpg, id=72, 516.54031pt x 289.08pt>
+ [17 <./s3p-infografico.jpg>]
+<./fouling_apelidos.jpg, id=76, 516.54031pt x 289.08pt>
 File: ./fouling_apelidos.jpg Graphic file (type jpg)
 
 <use ./fouling_apelidos.jpg>
-Package pdftex.def Info: ./fouling_apelidos.jpg used on input line 358.
+Package pdftex.def Info: ./fouling_apelidos.jpg used on input line 362.
 (pdftex.def)             Requested size: 361.57574pt x 202.35461pt.
 
-Overfull \hbox (16.57574pt too wide) in paragraph at lines 358--359
+Overfull \hbox (16.57574pt too wide) in paragraph at lines 362--363
  [][] 
  []
 
-<./fouling_intervaloY.jpg, id=73, 693.03127pt x 301.8778pt>
+<./fouling_intervaloY.jpg, id=77, 693.03127pt x 301.8778pt>
 File: ./fouling_intervaloY.jpg Graphic file (type jpg)
 
 <use ./fouling_intervaloY.jpg>
-Package pdftex.def Info: ./fouling_intervaloY.jpg used on input line 368.
+Package pdftex.def Info: ./fouling_intervaloY.jpg used on input line 372.
 (pdftex.def)             Requested size: 346.51479pt x 150.93852pt.
 
-Overfull \hbox (1.51479pt too wide) in paragraph at lines 368--369
+Overfull \hbox (1.51479pt too wide) in paragraph at lines 372--373
  [][] 
  []
 
-<./fouling_sem_multieixo.jpg, id=74, 667.92694pt x 319.94531pt>
+<./fouling_sem_multieixo.jpg, id=78, 667.92694pt x 319.94531pt>
 File: ./fouling_sem_multieixo.jpg Graphic file (type jpg)
 
 <use ./fouling_sem_multieixo.jpg>
-Package pdftex.def Info: ./fouling_sem_multieixo.jpg used on input line 378.
+Package pdftex.def Info: ./fouling_sem_multieixo.jpg used on input line 382.
 (pdftex.def)             Requested size: 333.96265pt x 159.97226pt.
 
-<./fouling_com_multieixo.jpg, id=75, 704.44232pt x 307.90031pt>
+<./fouling_com_multieixo.jpg, id=79, 704.44232pt x 307.90031pt>
 File: ./fouling_com_multieixo.jpg Graphic file (type jpg)
 
 <use ./fouling_com_multieixo.jpg>
-Package pdftex.def Info: ./fouling_com_multieixo.jpg used on input line 385.
+Package pdftex.def Info: ./fouling_com_multieixo.jpg used on input line 389.
 (pdftex.def)             Requested size: 352.22029pt x 153.94977pt.
 
-Overfull \hbox (7.22029pt too wide) in paragraph at lines 385--386
+Overfull \hbox (7.22029pt too wide) in paragraph at lines 389--390
  [][] 
  []
 
-<./fouling_sem_suavizar.jpg, id=76, 674.77357pt x 312.41719pt>
+<./fouling_sem_suavizar.jpg, id=80, 674.77357pt x 312.41719pt>
 File: ./fouling_sem_suavizar.jpg Graphic file (type jpg)
 
 <use ./fouling_sem_suavizar.jpg>
-Package pdftex.def Info: ./fouling_sem_suavizar.jpg used on input line 392.
+Package pdftex.def Info: ./fouling_sem_suavizar.jpg used on input line 396.
 (pdftex.def)             Requested size: 337.38596pt x 156.2082pt.
 
-<./fouling_suavizada.jpg, id=77, 669.44843pt x 313.9228pt>
+<./fouling_suavizada.jpg, id=81, 669.44843pt x 313.9228pt>
 File: ./fouling_suavizada.jpg Graphic file (type jpg)
 
 <use ./fouling_suavizada.jpg>
-Package pdftex.def Info: ./fouling_suavizada.jpg used on input line 399.
+Package pdftex.def Info: ./fouling_suavizada.jpg used on input line 403.
 (pdftex.def)             Requested size: 334.72339pt x 156.96101pt.
- [17 <./fouling_apelidos.jpg>] [18 <./fouling_intervaloY.jpg> <./fouling_sem_mu
+ [18 <./fouling_apelidos.jpg>] [19 <./fouling_intervaloY.jpg> <./fouling_sem_mu
 ltieixo.jpg>]
-<./fouling_diagrama.jpg, id=84, 827.68169pt x 498.36188pt>
+<./fouling_diagrama.jpg, id=89, 827.68169pt x 498.36188pt>
 File: ./fouling_diagrama.jpg Graphic file (type jpg)
 
 <use ./fouling_diagrama.jpg>
-Package pdftex.def Info: ./fouling_diagrama.jpg used on input line 418.
+Package pdftex.def Info: ./fouling_diagrama.jpg used on input line 422.
 (pdftex.def)             Requested size: 331.0668pt x 199.34122pt.
-
-<./fouling_arvore.jpg, id=85, 180.29463pt x 419.31656pt>
+ [20 <./fouling_com_multieixo.jpg> <./fouling_sem_suavizar.jpg>] <./fouling_arv
+ore.jpg, id=93, 180.29463pt x 419.31656pt>
 File: ./fouling_arvore.jpg Graphic file (type jpg)
 
 <use ./fouling_arvore.jpg>
-Package pdftex.def Info: ./fouling_arvore.jpg used on input line 429.
+Package pdftex.def Info: ./fouling_arvore.jpg used on input line 433.
 (pdftex.def)             Requested size: 90.14708pt x 209.65776pt.
- [19 <./fouling_com_multieixo.jpg> <./fouling_sem_suavizar.jpg>] <./sagas.jpg, 
-id=90, 1114.1625pt x 882.29625pt>
+ [21 <./fouling_suavizada.jpg> <./fouling_diagrama.jpg>] <./sagas.jpg, id=97, 1
+114.1625pt x 882.29625pt>
 File: ./sagas.jpg Graphic file (type jpg)
  <use ./sagas.jpg>
-Package pdftex.def Info: ./sagas.jpg used on input line 440.
+Package pdftex.def Info: ./sagas.jpg used on input line 444.
 (pdftex.def)             Requested size: 334.25133pt x 264.69092pt.
-
-[20 <./fouling_suavizada.jpg> <./fouling_diagrama.jpg>] [21 <./fouling_arvore.j
-pg>] <./strita_frentes.jpg, id=97, 1150.2975pt x 670.505pt>
+ [22 <./fouling_arvore.jpg>] <./strita_frentes.jpg, id=101, 1150.2975pt x 670.5
+05pt>
 File: ./strita_frentes.jpg Graphic file (type jpg)
 
 <use ./strita_frentes.jpg>
-Package pdftex.def Info: ./strita_frentes.jpg used on input line 464.
+Package pdftex.def Info: ./strita_frentes.jpg used on input line 468.
 (pdftex.def)             Requested size: 345.09192pt x 201.15305pt.
- [22 <./sagas.jpg>]
-<./argus_zoom.jpg, id=101, 486.87158pt x 282.30469pt>
+ [23 <./sagas.jpg>]
+<./argus_zoom.jpg, id=105, 486.87158pt x 282.30469pt>
 File: ./argus_zoom.jpg Graphic file (type jpg)
  <use ./argus_zoom.jpg>
-Package pdftex.def Info: ./argus_zoom.jpg used on input line 485.
+Package pdftex.def Info: ./argus_zoom.jpg used on input line 489.
 (pdftex.def)             Requested size: 340.80779pt x 197.61192pt.
 
-<./argus_multigraficos.jpg, id=102, 864.19705pt x 545.03625pt>
+<./argus_multigraficos.jpg, id=106, 864.19705pt x 545.03625pt>
 File: ./argus_multigraficos.jpg Graphic file (type jpg)
 
 <use ./argus_multigraficos.jpg>
-Package pdftex.def Info: ./argus_multigraficos.jpg used on input line 495.
+Package pdftex.def Info: ./argus_multigraficos.jpg used on input line 499.
 (pdftex.def)             Requested size: 345.6727pt x 218.01064pt.
 
-Overfull \hbox (0.6727pt too wide) in paragraph at lines 495--496
+Overfull \hbox (0.6727pt too wide) in paragraph at lines 499--500
  [][] 
  []
 
-<./crosshair.jpg, id=103, 669.50125pt x 670.505pt>
+<./crosshair.jpg, id=107, 669.50125pt x 670.505pt>
 File: ./crosshair.jpg Graphic file (type jpg)
  <use ./crosshair.jpg>
-Package pdftex.def Info: ./crosshair.jpg used on input line 502.
+Package pdftex.def Info: ./crosshair.jpg used on input line 506.
 (pdftex.def)             Requested size: 267.79576pt x 268.19725pt.
 
-<./argus_curva_tendencia.jpg, id=104, 853.1875pt x 481.8pt>
+<./argus_curva_tendencia.jpg, id=108, 853.1875pt x 481.8pt>
 File: ./argus_curva_tendencia.jpg Graphic file (type jpg)
 
 <use ./argus_curva_tendencia.jpg>
-Package pdftex.def Info: ./argus_curva_tendencia.jpg used on input line 512.
+Package pdftex.def Info: ./argus_curva_tendencia.jpg used on input line 516.
 (pdftex.def)             Requested size: 341.26895pt x 192.71658pt.
-
-<./argus_criando_relatorio.jpg, id=105, 591.85326pt x 387.69844pt>
+ [24 <./strita_frentes.jpg>]
+<./argus_criando_relatorio.jpg, id=112, 591.85326pt x 387.69844pt>
 File: ./argus_criando_relatorio.jpg Graphic file (type jpg)
 
 <use ./argus_criando_relatorio.jpg>
-Package pdftex.def Info: ./argus_criando_relatorio.jpg used on input line 523.
+Package pdftex.def Info: ./argus_criando_relatorio.jpg used on input line 527.
 (pdftex.def)             Requested size: 295.9259pt x 193.84874pt.
- [23 <./strita_frentes.jpg>] [24 <./argus_zoom.jpg> <./argus_multigraficos.jpg>
-]
+ [25 <./argus_zoom.jpg> <./argus_multigraficos.jpg>]
 
-LaTeX Warning: Text page 25 contains only floats.
+LaTeX Warning: Text page 26 contains only floats.
 
-[25 <./crosshair.jpg> <./argus_curva_tendencia.jpg>]
-<./argus_relatorio_criado.jpg, id=116, 778.99452pt x 549.55313pt>
+[26 <./crosshair.jpg> <./argus_curva_tendencia.jpg>]
+<./argus_relatorio_criado.jpg, id=120, 778.99452pt x 549.55313pt>
 File: ./argus_relatorio_criado.jpg Graphic file (type jpg)
 
 <use ./argus_relatorio_criado.jpg>
-Package pdftex.def Info: ./argus_relatorio_criado.jpg used on input line 532.
+Package pdftex.def Info: ./argus_relatorio_criado.jpg used on input line 536.
 (pdftex.def)             Requested size: 389.4963pt x 274.7759pt.
 
-Overfull \hbox (44.4963pt too wide) in paragraph at lines 532--533
+Overfull \hbox (44.4963pt too wide) in paragraph at lines 536--537
  [][] 
  []
 
-[26 <./argus_criando_relatorio.jpg>] [27 <./argus_relatorio_criado.jpg>]
-<./bio_concat.jpg, id=123, 986.68625pt x 256.96pt>
+[27 <./argus_criando_relatorio.jpg>] [28 <./argus_relatorio_criado.jpg>]
+<./bio_concat.jpg, id=127, 986.68625pt x 256.96pt>
 File: ./bio_concat.jpg Graphic file (type jpg)
  <use ./bio_concat.jpg>
-Package pdftex.def Info: ./bio_concat.jpg used on input line 551.
+Package pdftex.def Info: ./bio_concat.jpg used on input line 555.
 (pdftex.def)             Requested size: 345.34535pt x 89.93733pt.
 
-<./imagedani2-12.jpg, id=124, 642.4pt x 481.8pt>
+<./imagedani2-12.jpg, id=128, 642.4pt x 481.8pt>
 File: ./imagedani2-12.jpg Graphic file (type jpg)
  <use ./imagedani2-12.jpg>
-Package pdftex.def Info: ./imagedani2-12.jpg used on input line 560.
+Package pdftex.def Info: ./imagedani2-12.jpg used on input line 564.
 (pdftex.def)             Requested size: 160.59961pt x 120.44969pt.
 
-<./imagedani2-13.jpg, id=125, 642.4pt x 481.8pt>
+<./imagedani2-13.jpg, id=129, 642.4pt x 481.8pt>
 File: ./imagedani2-13.jpg Graphic file (type jpg)
  <use ./imagedani2-13.jpg>
-Package pdftex.def Info: ./imagedani2-13.jpg used on input line 561.
+Package pdftex.def Info: ./imagedani2-13.jpg used on input line 565.
 (pdftex.def)             Requested size: 160.59961pt x 120.44969pt.
 
-<./image-diff-recog-crop.jpg, id=126, 57.96657pt x 83.5622pt>
+<./image-diff-recog-crop.jpg, id=130, 57.96657pt x 83.5622pt>
 File: ./image-diff-recog-crop.jpg Graphic file (type jpg)
 
 <use ./image-diff-recog-crop.jpg>
-Package pdftex.def Info: ./image-diff-recog-crop.jpg used on input line 568.
+Package pdftex.def Info: ./image-diff-recog-crop.jpg used on input line 572.
 (pdftex.def)             Requested size: 57.96642pt x 83.56198pt.
- [28
+ [29
 
- <./bio_concat.jpg> <./imagedani2-12.jpg> <./imagedani2-13.jpg>] [29 <./image-d
-iff-recog-crop.jpg>] [30
+ <./bio_concat.jpg> <./imagedani2-12.jpg> <./imagedani2-13.jpg>] [30 <./image-d
+iff-recog-crop.jpg>] [31
 
-] [31] [32]
-Overfull \hbox (9.85938pt too wide) in paragraph at lines 674--675
+] [32] [33]
+Overfull \hbox (9.85938pt too wide) in paragraph at lines 673--674
 []\OT1/cmr/m/n/10 O sis-tema de con-t-role da CMIP est^^Sa sendo preparado para
  re-ce-ber as sequ^encias
  []
@@ -686,26 +687,27 @@ Overfull \hbox (48.90083pt too wide) in paragraph at lines 30--33
 l?pagewanted=all,
  []
 
-[33]) [34] (./dissertacao.aux) ) 
+[34]) [35] (./dissertacao.aux) ) 
 Here is how much of TeX's memory you used:
- 1971 strings out of 495059
- 28579 string characters out of 3182030
- 81271 words of memory out of 3000000
- 5107 multiletter control sequences out of 15000+200000
- 9153 words of font info for 32 fonts, out of 3000000 for 9000
+ 1976 strings out of 495031
+ 28646 string characters out of 6181530
+ 81941 words of memory out of 5000000
+ 5132 multiletter control sequences out of 15000+600000
+ 9461 words of font info for 33 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 38i,7n,23p,694b,246s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,7n,23p,754b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on dissertacao.pdf (34 pages, 1548089 bytes).
+ic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on dissertacao.pdf (35 pages, 1565407 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 182 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  156 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,35 @@
+\contentsline {section}{\numberline {1}Agradecimentos}{2}
+\contentsline {section}{\numberline {2}Introdu\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {subsection}{\numberline {2.1}Forewords}{2}
+\contentsline {subsection}{\numberline {2.2}Estrutura}{4}
+\contentsline {section}{\numberline {3}Breve descri\IeC {\c c}\IeC {\~a}o dos Sistemas}{4}
+\contentsline {subsection}{\numberline {3.1}Revestir}{4}
+\contentsline {subsection}{\numberline {3.2}Fouling}{6}
+\contentsline {subsection}{\numberline {3.3}CMIP e Programas de Monitoramento}{6}
+\contentsline {subsection}{\numberline {3.4}ARGUS}{7}
+\contentsline {subsection}{\numberline {3.5}SAGAS}{7}
+\contentsline {subsection}{\numberline {3.6}STRITA}{7}
+\contentsline {section}{\numberline {4}Revis\IeC {\~a}o de Literatura}{8}
+\contentsline {subsection}{\numberline {4.1}Percep\IeC {\c c}\IeC {\~a}o}{8}
+\contentsline {subsection}{\numberline {4.2}Cores}{9}
+\contentsline {subsection}{\numberline {4.3}Texto, Tabelas e Gr\IeC {\'a}ficos}{10}
+\contentsline {subsection}{\numberline {4.4}Tabelas}{11}
+\contentsline {subsection}{\numberline {4.5}Gr\IeC {\'a}ficos}{12}
+\contentsline {subsection}{\numberline {4.6}Quarteto de Anscombe }{14}
+\contentsline {subsection}{\numberline {4.7}S\IeC {\'e}ries Temporais}{14}
+\contentsline {subsection}{\numberline {4.8}Anima\IeC {\c c}\IeC {\~o}es}{14}
+\contentsline {subsection}{\numberline {4.9}Mapas}{15}
+\contentsline {section}{\numberline {5}Visualiza\IeC {\c c}\IeC {\~a}o de Informa\IeC {\c c}\IeC {\~o}es nos Sistemas}{16}
+\contentsline {subsection}{\numberline {5.1}Revestir}{16}
+\contentsline {subsection}{\numberline {5.2}Fouling}{18}
+\contentsline {subsection}{\numberline {5.3}SAGAS}{21}
+\contentsline {subsection}{\numberline {5.4}STRITA}{22}
+\contentsline {subsection}{\numberline {5.5}ARGUS}{24}
+\contentsline {subsection}{\numberline {5.6}CMIP}{29}
+\contentsline {section}{\numberline {6}Tecnologias}{31}
+\contentsline {subsection}{\numberline {6.1}Plotagens em Flot}{31}
+\contentsline {subsection}{\numberline {6.2}Mapas e Infogr\IeC {\'a}ficos em SVG}{31}
+\contentsline {subsection}{\numberline {6.3}Tabelas com Slickgrid e jqGrid}{32}
+\contentsline {subsection}{\numberline {6.4}Documenta\IeC {\c c}\IeC {\~a}o com Ipython Notebook}{33}
+\contentsline {subsection}{\numberline {6.5}Relat\IeC {\'o}rios}{33}
+\contentsline {section}{\numberline {7}Futuros Trabalhos}{33}

@@ -23,21 +23,25 @@ Distorts the heavens from pole to pole
 And leads you to believe a lie
 When you see with, not through, the eye."}{The Everlasting Gospel, William Blake}
 
+\tableofcontents
+
 \section{Agradecimentos}
 
 \section{Introdução} 
 
 \subsection{Forewords}
 
-Podemos definir a visualização de informação como a comunicação da informação por meio de representações gráficas para criação de um modelo ou imagem mental. O potencial oferecido pela visualização de informação passou por um enorme crescimento nos últimos vinte anos, em função do aperfeiçoamento dos computadores pessoais. Ainda assim, sua essência pode ser observada em exemplos muito anteriores à invenção da computação e considerados clássicos. A visualização de informação é incorporada à vida diária das pessoas em revistas, jornais, mapas, sinalização, análises de investimentos, diagnósticos, entre outras atividades.
+Podemos definir a visualização de informação como a comunicação de representações gráficas para criação de um modelo ou imagem mental. O potencial oferecido pela visualização de informação passou por um enorme crescimento nos últimos vinte anos, em função do aperfeiçoamento dos computadores pessoais. Ainda assim, sua essência pode ser observada em exemplos muito anteriores à invenção da computação e considerados clássicos. A visualização de informação é incorporada à vida diária das pessoas em revistas, jornais, mapas, sinalização, análises de investimentos, diagnósticos, entre outras atividades.
 
-Por sua ubiquidade, a visualização de informação se tornou uma ferramenta eficaz para facilitar a análise e comunicação de praticamente qualquer domínio do conhecimento. O estudo da visualização de informação é crítico para correta veiculação da mensagem a ser comunicada. Tem a capacidade de melhorar o processo decisório, potencial didático e até minimizar a consolidação de conceitos falsos.
+Por sua ubiquidade, a visualização de informação se tornou uma ferramenta eficaz para facilitar a análise e comunicação de praticamente qualquer domínio do conhecimento. O estudo da visualização de informação é crítico para correta veiculação da mensagem a ser comunicada, pois ela tem a capacidade de melhorar o processo decisório, possui potencial didático e pode até minimizar a consolidação de conceitos falsos.
 
-O uso adequado da visualização de informação no projeto de sistemas científicos, i.e, sistemas voltados para matemática, ciências e engenharias, possui peculiaridades que podem se tornar um desafio para o desenvolvedor. São sistemas complexos que geralmente possuem como objetivo serem utilizados por várias pessoas ao longo de todas as etapas do processo de visualização \cite{Fry:2008:VD:1482332} ao longo de um ciclo de vida que tende a ser muito maior que o de uma ferramenta de escritório. (*justificar pq)
+O uso adequado da visualização de informação no projeto de sistemas científicos, i.e, sistemas voltados para matemática, ciências e engenharias, possui peculiaridades que podem se tornar um desafio para o desenvolvedor. São sistemas complexos que geralmente possuem como objetivo serem utilizados por várias pessoas ao longo de todas as etapas do processo de visualização \cite{Fry:2008:VD:1482332} ao longo de um ciclo de vida que tende a ser muito maior que o de uma ferramenta de escritório. São projeto que possuem em sua previsão mais de dez anos de duração apenas para implementação e com tempo de manutenção muitas vezes ilimitados.
 
-Essa abrangência demanda o projeto de interfaces gráficas que agrupam em uma mesma tela diversos componentes como gráficos, planilhas, mapas e animações cuja aplicação eficiente é extremamente influenciada pela visualização de informação. Cabe ao desenvolvedor projetar adequadamente cada uma dessas funcionalidades, mantendo em mente que os pesquisadores serão os executores da visualização.
+Essa abrangência demanda o projeto de interfaces gráficas que agrupam em uma mesma tela diversos componentes como gráficos, planilhas, mapas e animações cuja aplicação eficiente é extremamente influenciada pela visualização de informação. 
 
-A possibilidade da visualização não ser feita em sua totalidade pela ferramenta sendo desenvolvida também precisa ser considerada. Como veremos em alguns exemplos, um projeto de interfaces que não aprisiona os dados, fornecendo meios para exportação dos mesmos em diversos formatos é muito importante. Isso não só ajuda ao pesquisador, que pode preferir desenvolver suas próprias soluções de visualização destes dados como também fornece concepções de novas formas de visualização que poderão ser incorporadas aos sistemas em versões futuras.
+Cabe ao desenvolvedor projetar adequadamente cada uma dessas funcionalidades, mantendo em mente que os pesquisadores serão os executores da visualização.
+
+Dessa forma, o desenvolvedor não possui pleno controle de como a aplicação será utilizada, gerando considerações adicionais na implementação da funcionalidade de visualização. A possibilidade da visualização não ser feita em sua totalidade pela ferramenta sendo desenvolvida precisa ser considerada. Como veremos em alguns exemplos, um projeto de interfaces que não aprisiona os dados, fornecendo meios para exportação dos mesmos em diversos formatos é muito importante. Ele ajuda ao pesquisador, que pode preferir desenvolver suas próprias soluções de visualização e este também pode fornecer concepções de novas formas de visualização que poderão ser incorporadas aos sistemas em versões futuras.
 
 Como a visualização adequada depende do contexto e o desenvolvedor não é o ator final em sua execução,  surgem questões em relação ao projeto destes sistemas: O pesquisador vai conseguir usar adequadamente essas funcionalidades? Este conjunto é eficiente ou na verdade uma fonte de distração? Ele vai usar a funcionalidade correta para cada etapa de seu trabalho? A disposição do conjunto favorece isso? São alguns dos questionamentos que precisam ser feitos no desenvolvimento destes sistemas.
 
@@ -49,15 +53,15 @@ Entretanto, na literatura revista neste estudo, encontramos normalmente a descri
 
 \subsection{Estrutura}
 
-O primeiro capítulo deste estudo fornece uma breve descrição dos sistemas e descreve as soluções de visualização implementadas de forma intuitiva, sem apoio em teoria de visualização.
+O primeiro capítulo deste estudo fornece uma breve descrição dos sistemas e das soluções de visualização implementadas com diferentes níveis de compreensão de teoria de visualização.
 
 No segundo capitulo apresentamos uma revisão de literatura de visualização de informação, destacando alguns conceitos utilizados na melhoria destes sistemas.
 
 O terceiro capítulo aborda como a aplicação dos conceitos foi utilizada no aprimoramento destes sistemas e onde esses conceitos puderam ser aplicados.
 
-O quarto capítulo faz uma descrição da implementação das funcionalidades de visualização nos sistemas abordados.
+O quarto capítulo faz uma descrição da implementação das funcionalidades de visualização nos sistemas abordados e da aplicação dos conceitos de teoria de visualização nos mesmos.
 
-No quinto capítulo, comparamos as soluções apresentadas com os frameworks Tableu e Knime
+No quinto capítulo, abordamos as tecnologias utilizadas na implementação das funcionalidades de visualização e justificamos a escolha das mesmas.
 
 Por último, no sexto capitulo mencionamos os futuros trabalhos em projeto e conceitos que desejamos aplicar nesses projetos.
 
@@ -659,11 +663,6 @@ Para gerar os gráficos, nas configurações especificadas interativamente pelos
 No sistema Argus a edição ocorre somente na interface WEB, o que tornou a criação do documento, neste aspecto, mais simplificada. Foi utilizado o formato HTML e o editor TineMCE. Um processo de substituição semelhante ao utilizado nos diagramas do sistema Fouling foi aplicado para realizar a troca dos códigos convencionados de gráfico e tabela no documento.
 
 Terminada a edição, o documento em formato HTML é formatado para impressão e exportado em formato PDF. Essa funcionalidade foi desenvolvida com o uso da biblioteca WeasyPrint.
-
-\section{Alternativas}
-
-Para fins de comparação, avaliamos as soluções de visualização apresentadas com os frameworks de visualização Tableau e Knime. As duas alternativas permitem a exploração e visualização dos dados sem a necessidade de programação. 
-
 
 \section{Futuros Trabalhos}
 
